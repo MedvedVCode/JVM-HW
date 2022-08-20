@@ -1,5 +1,5 @@
 # Домашняя работа "Исследование JVM через VisualVM"
-## Код для исследования
+## Лог программы для исследования
 ```java
 Please open 'ru.netology.JvmExperience' in VisualVm
 09:17:50.862409300: loading io.vertx
